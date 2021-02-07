@@ -1,0 +1,48 @@
+body {
+    /* margin: auto; */
+    /* background-color: #151E29; */
+    /* background-color: #1a2532; */
+    background-color: #e6e6e6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-btns {
+    display: block;
+    margin-top:1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+
+#nav-container{
+    margin-right: 0;
+    
+    margin-left: 40%;
+
+}
+
+#write-tweet {
+    padding-right: 20%;
+}
+
+#tweet-btn {
+    font-size: large;
+    padding: 1rem;
+}
+.row {
+    padding-top: 2rem;
+}
+
+#card-tweet {
+    margin-bottom: 1rem;
+}
+#feed {
+    overflow-y: auto;
+}
+#main-navbar {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+#user-title {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}

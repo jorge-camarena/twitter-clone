@@ -1,0 +1,32 @@
+body {
+    background-color: #1a2532;
+}
+
+#login-card {
+    margin: auto;
+    margin-top: 10rem;
+    padding-left: 6rem;
+
+    
+}
+
+#twitter-clone {
+    font-size: 40px;
+    text-align: center;
+}
+
+#username-log {
+    font-size: 20px;
+}
+
+#password-log {
+    font-size: 20px;
+}
+
+.user-pass-input {
+    margin-right: 4rem;
+}
+
+#login-btn {
+    text-align: center;
+}
